@@ -1,0 +1,6 @@
+{
+  "name": "Tra Cứu Điểm Thi Vào Lớp 10",
+  "description": "Hệ thống tra cứu, cập nhật điểm thi vào lớp 10 THPT chính công lập chính thức, tính toán điểm xét tuyển theo các hệ số tỉnh thành, dự báo đỗ trượt nguyện vọng và tư vấn định hướng cùng trợ lý AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
